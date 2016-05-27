@@ -6,17 +6,19 @@
 //divided by the length of the slice. To be precise, 
 //the average equals (A[P] + A[P + 1] + ... + A[Q]) / (Q − P + 1).
 //
-// 80% score solution. perfomance test failed
+// 100% score solution. 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)
      var i, avr = 0,
-        minAvr = Number.MAX_SAFE_INTEGER,
+        minAvr = 0,
         minSliceIndex = 0, 
         sum1, sum2,       
         n = A.length;
    
     if(n <= 2 || n > 100000) return 0;
-          
+         
+    minAvr = (A[0] + A[1])/2;
+    
     for(i = 2;i < n; i++){            
         var sum1 = (A[i - 1] + A[i]) / 2;
         var sum2 = (A[i - 2] + A[i - 1] + A[i]) / 3;
