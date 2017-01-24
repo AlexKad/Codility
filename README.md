@@ -1,7 +1,7 @@
 # Codility
 Solutions for several codility tasks (https://codility.com/).
 
-#Lesson 1. Time Complexity
+Lesson 1. Time Complexity
 
     FrogJmp  https://codility.com/demo/take-sample-test/frog_jmp/
     PermMissingElem https://codility.com/demo/take-sample-test/perm_missing_elem/
