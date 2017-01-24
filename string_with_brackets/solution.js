@@ -11,7 +11,7 @@ function solution(S) {
         i = 0, openBracketsArr = [], openBracket;
     
     if(S.isEmpty()) return 1;
-    if(n%2 != 0 || n > 200000) return 0; // per condition string contains only brackets. In properly nested string brackets are simmetric.
+    if(n%2 != 0 || n > 200000) return 0; // per description string contains only brackets. In properly nested string brackets are simmetric.
     
     while(i != n){
         sym = S[i];
