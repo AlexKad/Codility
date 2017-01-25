@@ -31,7 +31,7 @@ Lesson 5. Stack and Queries
     Brackets https://codility.com/demo/take-sample-test/brackets/
     Nesting https://codility.com/demo/take-sample-test/nesting/
     Fish https://codility.com/demo/take-sample-test/fish/
-    StoneWall
+    StoneWall https://codility.com/demo/take-sample-test/stone_wall/
     
 Lesson 6. Leader
 
