@@ -35,6 +35,8 @@ Lesson 5. Stack and Queries
     
 Lesson 6. Leader
 
+https://codility.com/media/train/6-Leader.pdf
+
     EquiLeader  https://codility.com/demo/take-sample-test/equi_leader/
     Dominator  https://codility.com/demo/take-sample-test/dominator/
     
