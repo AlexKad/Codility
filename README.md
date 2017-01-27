@@ -48,7 +48,7 @@ https://codility.com/media/train/6-Leader.pdf
  
  https://codility.com/programmers/lessons/9-maximum_slice_problem/
  
-     MaxDoubleSliceSum
+     MaxDoubleSliceSum https://codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/start/
      MaxProfit
      MaxSliceSum
 	
