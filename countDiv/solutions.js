@@ -11,3 +11,11 @@ function solution(A, B, K) {
    }   
    return counters;
 }
+
+// 100% solution
+function solution(A, B, K) {
+    var offsetForLeftRange = 0;
+    if ( A % K == 0) { ++offsetForLeftRange; }
+
+    return  Math.trunc(B/K) - Math.trunc(A/K) + offsetForLeftRange; // trunc выделяет целую часть от деления
+}
