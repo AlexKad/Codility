@@ -57,7 +57,7 @@ https://codility.com/media/train/6-Leader.pdf
   https://codility.com/media/train/8-PrimeNumbers.pdf
   
      CountFactors https://codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors
-     MinPerimeterRectangle 
+     MinPerimeterRectangle https://codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle
      Flags
      Peaks
 	
