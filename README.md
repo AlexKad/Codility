@@ -52,6 +52,13 @@ https://codility.com/media/train/6-Leader.pdf
      MaxProfit https://codility.com/programmers/lessons/9-maximum_slice_problem/max_profit
      MaxSliceSum https://codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/
      
-     
+  Lesson 10. Prime and composite numbers
+  
+  https://codility.com/media/train/8-PrimeNumbers.pdf
+  
+     CountFactors https://codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors
+     MinPerimeterRectangle 
+     Flags
+     Peaks
 	
     
