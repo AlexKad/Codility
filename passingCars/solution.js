@@ -7,13 +7,13 @@
 // The goal is to count passing cars.
 // We say that a pair of cars (P, Q), where 0 ≤ P < Q < N, 
 //                     is passing when P is traveling to the east and Q is traveling to the west.
+// The function should return −1 if the number of pairs of passing cars exceeds 1,000,000,000.
 //
+
 //  60% score solution. timeout errors on large arrays
 function solution(A) {
    var n = A.length, i,k=0,
-    pairs = 0;
-    
-    if(n > 1000000000) return -1;
+    pairs = 0;    
     
     for(i=0; i<n; i++){
         if(A[i] === 0){
@@ -25,7 +25,26 @@ function solution(A) {
                 k++;
             }
         }
-    }
-    
+    }    
     return pairs;
+}
+
+// 100% solution with complexity O(n)
+function bestSolution(A) {
+    var n = A.length, i,
+        eastCounter =0,
+        passingCars = 0;
+        
+    for(i = 0; i<n; i++){
+        if(A[i] === 1){
+            passingCars += eastCounter;
+            if(passingCars > 1000000000){
+                return -1;
+            }
+        }
+        else{
+            eastCounter++;
+        }
+    }
+    return passingCars;
 }
