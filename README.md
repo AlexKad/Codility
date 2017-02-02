@@ -18,8 +18,8 @@ Lesson 4. Counting Elements
 	
 Lesson 5. PrefixSums
 
-    PassingCars https://codility.com/demo/take-sample-test/passing_cars/ (TODO: fix low performance)
-    CountDiv https://codility.com/demo/take-sample-test/count_div/ (TODO: fix low performance)
+    PassingCars https://codility.com/demo/take-sample-test/passing_cars/
+    CountDiv https://codility.com/demo/take-sample-test/count_div/ 
     MinAvg https://codility.com/demo/take-sample-test/min_avg_two_slice/
     GeonomicRangeQuery https://codility.com/demo/take-sample-test/genomic_range_query/
 	
