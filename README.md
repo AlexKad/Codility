@@ -58,7 +58,7 @@ https://codility.com/media/train/6-Leader.pdf
   
      CountFactors https://codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors
      MinPerimeterRectangle https://codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle
-     Flags
-     Peaks
+     Flags https://codility.com/programmers/lessons/10-prime_and_composite_numbers/flags
+     Peaks https://codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/  TODO: fix 81% score solution.
 	
     
